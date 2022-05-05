@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 5th Thesis Defense
 
-To start the slide show:
+This is the presentation I made for my 5th year master's thesis defense at IISER, Pune. Feel free to have a look at it.
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+Made using [Slidev](https://sli.dev).
